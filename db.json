@@ -2,6 +2,8 @@
   "feed": [
     {
     "id": 1,
+    "sourceName": "Bing news",
+    "sourceImage": "https://png.pngitem.com/pimgs/s/254-2548892_300-x-250-picture-of-hashtag-png-bing.png",
     "header": "Portugal detects 13 cases of Omicron tied to a soccer team",
     "description": "Portugal on Monday said it had identified 13 cases of the Omicron variant of the coronavirus, all tied to Belenenses.",
     "featuredImage": "https://www.bing.com/th?id=OVFT.X-z5PnlY1lQwubIsYspZty&pid=News&w=312&h=164&c=14&rs=2&qlt=90",
@@ -11,6 +13,8 @@
     },
     {
     "id": 2,
+    "sourceName": "Brave news",
+    "sourceImage": "https://brave.com/wp-content/uploads/2019/03/brave-logo-1.png",
     "header": "Namibia recognizes renewable energy as a solution to climate change",
     "description": "Namibia recognizes that fossil fuel is no longer the fuel of the future and renewable energy is now the solution to climate change.",
     "featuredImage": "https://atmosphere.copernicus.eu/sites/default/files/inline-images/solarpanels_small.png",
@@ -20,6 +24,8 @@
     },
     {
     "id": 3,
+    "sourceName": "Google news",
+    "sourceImage": "https://www.seekpng.com/png/detail/5-53819_small-google-logo-png-transparent-background-600-x.png",
     "header": "Coronavirus latest: Hong Kong finds 3rd omicron case",
     "description": "Namibia recognizes that fossil fuel is no longer the fuel of the future and renewable energy is now the solution to climate change.",
     "featuredImage": "wur.nl/upload/0be08989-002b-401e-a0c1-a2b19bedb6ee_corona%20world.jpg",
