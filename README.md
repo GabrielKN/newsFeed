@@ -1,1 +1,1 @@
-#Server: https://my-json-server.typicode.com/GabrielKN/newsFees
+#Server: https://my-json-server.typicode.com/GabrielKN/newsFeed
